@@ -4,3 +4,4 @@ from
      from column_maps 
      where partner_id = 343) x 
 where tombstone <> true and row_number = 1
+--test
